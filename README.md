@@ -75,17 +75,3 @@ This app uses the [WeatherAPI](https://weatherAPI.com/) to fetch weather data.
    - [Firebase Hosting](https://firebase.google.com/docs/hosting/)
 
 ---
-
-## Folder Structure
-
-```plaintext
-lib/
-├── main.dart           // Entry point of the app
-├── models/             // Data models (e.g., Weather)
-├── services/           // API calls and data fetching logic
-├── widgets/            // Reusable UI components
-├── screens/            // App screens (e.g., HomeScreen, WeatherDetailScreen)
-└── utils/              // Utility functions and constants
-```
-
----
